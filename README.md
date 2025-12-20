@@ -54,14 +54,10 @@ endmodule
 Developed by: SOWNDHARYA S     
 RegisterNumber:25009992    
 */
-
 **RTL LOGIC UP COUNTER**
 <img width="1028" height="482" alt="Screenshot 2025-12-19 185659" src="https://github.com/user-attachments/assets/3c1cd2f5-f36e-4ace-a3f1-d9fc7e40efce" />
 **TIMING DIAGRAM FOR IP COUNTER**
 <img width="1120" height="507" alt="Screenshot 2025-12-19 185726" src="https://github.com/user-attachments/assets/accbd682-bbcd-400b-a0af-3afc42e4c3ca" />
-**TRUTH TABLE**
-<img width="771" height="380" alt="Screenshot 2025-12-19 185742" src="https://github.com/user-attachments/assets/2184a242-07b6-4e6c-8000-b6764da3a329" />
-
 **RESULTS**
 Hence a 4 bit synchronous up counter is implemented correctly
 
