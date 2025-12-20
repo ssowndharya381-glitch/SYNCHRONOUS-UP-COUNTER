@@ -50,14 +50,18 @@ else
 out <= out+1;   
 end  
 endmodule  
+
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.   
 Developed by: SOWNDHARYA S     
 RegisterNumber:25009992    
 */
+
 **RTL LOGIC UP COUNTER**
 <img width="1028" height="482" alt="Screenshot 2025-12-19 185659" src="https://github.com/user-attachments/assets/3c1cd2f5-f36e-4ace-a3f1-d9fc7e40efce" />
+
 **TIMING DIAGRAM FOR IP COUNTER**
 <img width="1120" height="507" alt="Screenshot 2025-12-19 185726" src="https://github.com/user-attachments/assets/accbd682-bbcd-400b-a0af-3afc42e4c3ca" />
+
 **RESULTS**
 Hence a 4 bit synchronous up counter is implemented correctly
 
